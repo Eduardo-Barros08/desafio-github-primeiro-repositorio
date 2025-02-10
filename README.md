@@ -7,7 +7,7 @@ Este repositório é um espaço onde registro meu processo de aprendizado em pro
  - Projetos e exercícios práticos 📝
  - Algoritmos e estruturas de dados 🔍
  - Anotações sobre conceitos e boas práticas 📚
- - Estudos de linguagens como C, C++, Python e mais! 💻
+ - Estudos de linguagens para backend como Java e mais! 💻
  - Meu progresso e desafios superados 🔥
 
  Sinta-se à vontade para explorar, sugerir melhorias e contribuir! 🚀
