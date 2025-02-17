@@ -3,7 +3,6 @@ database.db
 *.log      # Ignora todos os arquivos .log
 *.tmp      # Ignora todos os arquivos temporários
 /node_modules/   # Ignora a pasta node_modules
-/bin/            # Ignora a pasta bin
 /build/         # Ignora a pasta build
 logs/            # Ignora a pasta logs e todo o seu conteúdo
 logs/*.log       # Ignora apenas arquivos .log dentro da pasta logs
